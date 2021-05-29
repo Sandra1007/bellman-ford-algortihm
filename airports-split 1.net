@@ -1,0 +1,14 @@
+*vertices 11
+0 LHR 
+1 BER 
+2 MAD 
+3 KBP 
+4 FCO 
+5 CDG 
+6 MSQ 
+7 ARN 
+8 DUB 
+9 VIE 
+10 SPU 
+*arcs 36
+3 2 
